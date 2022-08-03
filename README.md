@@ -3,5 +3,5 @@ Repository containing all the projects done while undergoing the ALX Udacity Dat
 
 ### Project One
 <i>Files</i>
-1.noshow.csv
-2.investigate_a_dataset.ipynb
+<ul>1. noshow.csv</ul>
+<ul>2. investigate_a_dataset.ipynb</ul>
